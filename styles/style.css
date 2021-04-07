@@ -6,6 +6,10 @@
 	font-weight: 500;
 }
 
+.container {
+	min-width: 1349px;
+}
+
 header {
 	width: 1349px;
 	height: 630px;
