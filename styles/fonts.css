@@ -1,0 +1,30 @@
+@font-face{
+    font-family: "Exo";
+    src: url(../fonts/Exo-Thin.ttf) format("truetype");
+    font-weight: 100;
+}
+
+@font-face{
+    font-family: "Exo";
+    src: url("../fonts/Exo-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
+
+@font-face{
+    font-family: "Exo";
+    src: url("../fonts/Exo-Medium.ttf") format("truetype");
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: "Exo";
+    src: url("../fonts/Exo-Italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+@font-face{
+    font-family: "Lato";
+    src: url("../fonts/Lato-Regular.ttf") format("truetype");
+    font-weight: 400;
+}
